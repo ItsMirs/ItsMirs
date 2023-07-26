@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @ItsMirs. I am a person eager to learn, grow professionally and always ready for new experiences. I have always had a passion for the world of information technology, acquiring notions both as a self-taught person and with my studies
+- 👀 I'm interested in programming using various languages ​​like SQL, HTML, Python, gaining experience in various platforms/tools in Data Visualization and I'm also interested in various AI topics
+- 🌱 I'm currently learning to program in Python and acquiring other notions in the DATA world
